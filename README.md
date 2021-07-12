@@ -6,9 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-loginsystem&theme=vue-dark)](https://github.com/igorjcqs/sttey-loginsystem)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-lobby&theme=vue-dark)](https://github.com/igorjcqs/sttey-lobby)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-hardcoregames&theme=vue-dark)](https://github.com/igorjcqs/sttey-hardcoregames)
   
 <a href="https://www.instagram.com/igorjcqs/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
