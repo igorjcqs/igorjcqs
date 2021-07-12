@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Igor.</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorjcqs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igorjcqs&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <div align="center"> 
