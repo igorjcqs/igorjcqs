@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjcqs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-loginsystem&theme=vue-dark)](https://github.com/igorjcqs/sttey-loginsystem)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
