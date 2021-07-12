@@ -6,7 +6,7 @@
 <br>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjcqs&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 <a href="https://www.instagram.com/igorjcqs/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
