@@ -18,6 +18,8 @@
 <a href="https://open.spotify.com/user/dolphinbits?si=df4c8e544d0841e1" target="_blank">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
+
+</br>  
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
