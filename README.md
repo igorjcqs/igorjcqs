@@ -3,12 +3,12 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjcqs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
   
 <a href="https://www.instagram.com/igorjcqs/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
