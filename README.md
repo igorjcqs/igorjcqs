@@ -2,7 +2,7 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjcqs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorjcqs&show_icons=true&&theme=vue-dark&layout=compact" alt="igorjcqs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorjcqs&show_icons=true&&theme=vue-dark&layout=compact" alt="igorjcqs" /></p>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-bungeeutils&theme=vue-dark)](https://github.com/igorjcqs/sttey-bungeeutils)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorjcqs&repo=sttey-loginsystem&theme=vue-dark)](https://github.com/igorjcqs/sttey-loginsystem)
