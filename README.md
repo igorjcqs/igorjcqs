@@ -7,7 +7,7 @@
 <div align="center"> 
 
 <a href="https://www.instagram.com/igorjcqs/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-3da37a?&style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-3da37a?&style=for-the-badge&logo=instagram&logoColor=3da37a">
 </a>
 
 <a href="https://www.instagram.com/caldasflamejantes/" target="_blank">
