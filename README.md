@@ -1,1 +1,1 @@
-<img src="https://www.w3schools.com/images/w3schools_green.jpg"></img>
+<img src="https://i.imgur.com/7aYsrpI.png"></img>
