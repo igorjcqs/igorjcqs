@@ -28,7 +28,8 @@ const moreAboutMe = {
         databases: ["MongoDB", "MySql", "Sqlite", "Postgresql"],
         misc: ["Firebase", "Socket.IO", "Postman", "Insomnia", "Xampp", "Eclipse"]
     },
+    designPatterns: ["SOLID"],
     architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing backend applications for X using Java/Spring",
+    currentProject: "I am developing backend applications for X using Java/Spring"
 };
 ```
