@@ -2,7 +2,7 @@
 
 ##
 
-Hi Guys 👋,
+Hi Guys 👋
 
 I'm Igor, a junior full-stack software engineer, creative developer passionate about technology and astronomy. I've been a technology enthusiast since I was 12 years old and I dream of one day helping people to have a better life with the support of technology.
 
