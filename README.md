@@ -18,7 +18,7 @@ const moreAboutMe = {
             css: ["Materialize", "Styled-components", "Bootstrap"]
         },
         backEnd: {
-            javascript: ["Node", "Express", "Adonis", "Nest"],
+            javascript: ["Node", "Express"],
             python: ["Django", "Flask"],
             java: ["Spring"],
             php: ["Laravel"],
