@@ -24,9 +24,9 @@ const moreAboutMe = {
             php: ["Laravel"],
             golang: ["DiscordGo"]
         },
-        devOps: ["Docker", "Nginx", "Apache", "AWS", "GCP"],
+        devOps: ["Docker", "AWS", "GCP"],
         databases: ["MongoDB", "MySql", "Sqlite", "Postgresql"],
-        misc: ["Firebase", "Socket.IO", "Postman", "Insomnia", "Xampp", "Eclipse"]
+        misc: ["Firebase", "Socket.IO", "Postman", "Insomnia", "Xampp", "Eclipse", "Nginx", "Apache"]
     },
     designPatterns: ["SOLID"],
     architecture: ["Progressive web applications", "Single page applications"],
