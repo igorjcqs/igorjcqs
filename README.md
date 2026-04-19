@@ -2,7 +2,7 @@
 
 I'm Igor — fullstack developer & solo founder from Brazil. I build at the intersection of AI, developer tooling, and infrastructure.
 
-Currently shipping **Modus** (AI-powered self-healing for software) and building fiscal primitives for AI agents operating in Brazil.
+Currently shipping **Modus**.
 
 By day I ship features across two products. By night I'm deep in observability pipelines, MCP servers, and local LLM experiments.
 
